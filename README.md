@@ -4,16 +4,17 @@ This document is intended for makers in Mexico who want to participate in the cr
 
 Why do you need this document? We have interviewed a number of makers, experts and hospitals about the last resort ventilators and learned from them about what makers should realistically expect. This document is aimed to bring makers up to speed on the current progress of builds in Mexico as well as to provide them with the necessary background information so they will have an idea what they are getting into.
 
-This document is solely intended for those makers who are looking to build last resort ventilators to be used in medical institutions. The advice here should not be considered as legal or medical advice, but rather a list of information that the reader is responsible to verify themself. The contributors of this project are not doctors, medical researchers nor experienced with law.
+This document is solely intended for those makers who are looking to build last resort, low-cost ventilators to be used in medical institutions in Mexico. The advice here should not be considered as legal or medical advice, but rather a list of information that the reader is responsible to verify themself. The contributors of this project are not doctors, medical researchers nor experienced with law.
 
 
 ### How can you help with this document? 
 
-
-
 *   Open a pull request with any changes you would like to make
+    *   [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls)
 *   Open an issue to describe your build experiences
+    *   Use the issue template found here: [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1)
 *   Open a pull request to submit a link to your community of builders 
+    *   Use the issue template found here: [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1)
 
 
 ## Background 
@@ -27,13 +28,15 @@ Selecting a design to build requires thorough consideration, as malfunctioning o
 
 ### What to expect
 
-Based on interviews with experts and makers we have compiled the following bullet point list on what to expect.
+Based on interviews with experts and makers we have compiled the following bullet point list on what to expect:
 
-1. **Don’t expect to get your devices into medical institutions** **yet**, the current regulations do not allow this. Should the pandemic get much worse, the likelihood of the government laxing the regulations is a possibility. Current interviews with hospitals have shown that hospitals are not willing to use last resort ventilators at this time.
+
+
+1. **Don’t expect to get your devices into medical institutions** **yet**, the current regulations do not allow this. Should the pandemic get much worse, there is possibility of the government laxing the regulations. Current interviews with hospitals have shown that hospitals are not willing to use last resort ventilators at this time.
 2. **Don’t expect to get your device certified**. The process is long, often taking years. This document is aimed for those building last resort ventilators to be used when no other alternative is available.
 3. **Don’t expect to receive cooperation from the hospitals**. At the time of writing this, the hospitals in Mexico are still able to manage. They will likely not provide you with information regarding their current situation with ventilators or information about what kind of a ventilator should be built.
 4. **Your device might kill someone**. If the device is not properly calibrated or malfunctions it might lead to serious injury or the death of a patient.
-5. **Consider building Class I medical devices**. There is a currently a shortage of not only ventilators but for example face shields. Building a face shield is a much more simple task and is not going to kill anyone in case of a malfunction.
+5. **Consider building Class I medical devices**. There is a currently a shortage of not only ventilators but, for example, face shields. Building a face shield is a much more simple task and is not going to kill anyone in case of a malfunction.
 
 
 ## Regulatory considerations
@@ -43,7 +46,7 @@ The medical ventilators fall under Class II medical devices, meaning that they w
 However, the ventilators discussed here are aimed to be provided as last resort devices for the medical institutions with the most dire needs. Considering the rapid advancement of the pandemic, it is possible that the requirements for the medical ventilators could be laxed and even last resort ventilators could be put into use in hospitals.
 
 
-## Documentation
+### Documentation
 
 The Mexican government has released a document describing the requirements for the ventilator production: [https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabricacion-de-ventiladores-durante-la-emergencia-de-salud-publica-por-coronavirus-2019-covid-19?idiom=es&fbclid=IwAR0x3wMG-P88LaqueSmDusmNnOzzFP3M1LCdMZwnJ8qWbqAirB6E3e7qCds](https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabricacion-de-ventiladores-durante-la-emergencia-de-salud-publica-por-coronavirus-2019-covid-19?idiom=es&fbclid=IwAR0x3wMG-P88LaqueSmDusmNnOzzFP3M1LCdMZwnJ8qWbqAirB6E3e7qCds). It should be noted that these provisions are only valid during the pandemic.
 
@@ -59,7 +62,7 @@ The current requirements for emergency ventilators are listed in the above links
 [https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo)
 
 
-## Designs to implement
+## Open source designs
 
 The document currently describes two open source designs, Oxygen and E-Vent, both of which are currently being built by makers in Mexico.
 
@@ -79,12 +82,12 @@ The first selection criteria is that the designs have gone through some sort of 
 
 Second criteria is the price of manufacturing. As the devices are intended to be built by makers with limited resources, the price must be relatively low. Both of the selected projects aim to provide a low-cost, easily producible device.
 
-The Oxygen project has over 150 builds [source], hinting at the relative ease of creating it. The Mexican maker community has commented that the estimated price for the production of the Oxygen IP model is $12,000 MXN.
+The Oxygen project has over 150 builds [source], hinting at the relative ease of creating it. The Mexican maker community has commented that the estimated price for the production of the Oxygen IP model is **$12,000 MXN**.
 
 The MIT E-vent does not mention specific prices, besides that it is a low-cost device.
 
 
-## Community
+### Community
 
 Third criteria is the community. The importance of the community is especially relevant when makers source materials for their builds. As both of the chosen designs have been developed outside of Mexico, it is important that the local maker community is able to share experiences about materials and the build process.
 
