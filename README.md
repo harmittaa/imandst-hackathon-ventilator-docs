@@ -95,7 +95,6 @@ The Oxygen project has a very lively community on Discord which features both En
 
 The E-Vent project is actively discussed on the project’s website.
 
-
 <table>
   <tr>
    <td><strong>Name</strong>
@@ -125,8 +124,6 @@ The E-Vent project is actively discussed on the project’s website.
    <td><a href="https://discord.gg/yyYQxEG">https://discord.gg/yyYQxEG</a>
 <p>
 <a href="https://www.facebook.com/groups/1347740022075853">https://www.facebook.com/groups/1347740022075853</a>
-   </td>
-  </tr>
   <tr>
    <td><strong>MIT E-Vent</strong>
    </td>
