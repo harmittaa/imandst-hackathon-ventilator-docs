@@ -1,4 +1,4 @@
-# Recommendations for makers of emergency ventilators in México
+# Getting started information for makers of last resort emergency ventilators in México
 
 This document is intended for makers in Mexico who want to participate in the creation of last resort ventilators to help the medical institutions fight the COVID-19 pandemic. There are not enough ventilators available and thus there will likely be a need for these last resort devices at some point.
 
@@ -82,7 +82,7 @@ The first selection criteria is that the designs have gone through some sort of 
 
 Second criteria is the price of manufacturing. As the devices are intended to be built by makers with limited resources, the price must be relatively low. Both of the selected projects aim to provide a low-cost, easily producible device.
 
-The Oxygen project has over 150 builds [source], hinting at the relative ease of creating it. The Mexican maker community has commented that the estimated price for the production of the Oxygen IP model is **$12,000 MXN**.
+The Oxygen project has over 150 builds [[https://www.oxygen.protofy.xyz/](https://www.oxygen.protofy.xyz/)], hinting at the relative ease of creating it. The Mexican maker community has commented that the estimated price for the production of the Oxygen IP model is **$12,000 MXN**.
 
 The MIT E-vent does not mention specific prices, besides that it is a low-cost device.
 
@@ -94,3 +94,6 @@ Third criteria is the community. The importance of the community is especially r
 The Oxygen project has a very lively community on Discord which features both English and Spanish channels ([https://discord.gg/yyYQxEG](https://discord.gg/yyYQxEG)), as well as a Mexican Oxygen makers’ group ([https://www.facebook.com/groups/1347740022075853](https://www.facebook.com/groups/1347740022075853)). 
 
 The E-Vent project is actively discussed on the project’s website.
+
+
+<!-- Docs to Markdown version 1.0β21 -->
