@@ -1,4 +1,4 @@
-# Getting started information for makers of last resort emergency ventilators in México
+# Getting started for makers of last resort emergency ventilators in México
 
 This document is intended for makers in Mexico who want to participate in the creation of last resort ventilators to help the medical institutions fight the COVID-19 pandemic. There are not enough ventilators available and thus there will likely be a need for these last resort devices at some point.
 
@@ -96,4 +96,55 @@ The Oxygen project has a very lively community on Discord which features both En
 The E-Vent project is actively discussed on the project’s website.
 
 
-<!-- Docs to Markdown version 1.0β21 -->
+<table>
+  <tr>
+   <td><strong>Name</strong>
+   </td>
+   <td><strong>Link</strong>
+   </td>
+   <td><strong>Estimated price</strong>
+   </td>
+   <td><strong>Validation</strong>
+   </td>
+   <td><strong>Component availability</strong>
+   </td>
+   <td><strong>Community</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Oxygen (IP)</strong>
+   </td>
+   <td><a href="https://www.oxygen.protofy.xyz/">https://www.oxygen.protofy.xyz/</a>
+   </td>
+   <td>$12,000 MXN
+   </td>
+   <td>Clinical trials
+   </td>
+   <td>All components can be sourced from Mexico
+   </td>
+   <td><a href="https://discord.gg/yyYQxEG">https://discord.gg/yyYQxEG</a>
+<p>
+<a href="https://www.facebook.com/groups/1347740022075853">https://www.facebook.com/groups/1347740022075853</a>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>MIT E-Vent</strong>
+   </td>
+   <td><a href="https://e-vent.mit.edu/">https://e-vent.mit.edu/</a>
+   </td>
+   <td>N/A
+   </td>
+   <td>Porcine study
+   </td>
+   <td>All components can be sourced from the USA
+   </td>
+   <td><a href="https://e-vent.mit.edu/">https://e-vent.mit.edu/</a>
+   </td>
+  </tr>
+</table>
+
+
+
+### Building a project not listed here or want to update the information in the table?
+
+Please help to improve this documentation by opening an [issue](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues) or a pull [request](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls). 
