@@ -56,18 +56,17 @@ However, the ventilators discussed here are aimed to be provided as last resort 
 
 ### Documentation
 
-The Mexican government has released a document describing the requirements for the ventilator production: [https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabricacion-de-ventiladores-durante-la-emergencia-de-salud-publica-por-coronavirus-2019-covid-19?idiom=es&fbclid=IwAR0x3wMG-P88LaqueSmDusmNnOzzFP3M1LCdMZwnJ8qWbqAirB6E3e7qCds](https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabricacion-de-ventiladores-durante-la-emergencia-de-salud-publica-por-coronavirus-2019-covid-19?idiom=es&fbclid=IwAR0x3wMG-P88LaqueSmDusmNnOzzFP3M1LCdMZwnJ8qWbqAirB6E3e7qCds). It should be noted that these provisions are only valid during the pandemic.
-
-The Colegio de Ingenieros Biomédicos de México A.C. has also published a set of regulatory requirements for mechanical ventilators available here: [http://cib.org.mx/Covid19/20200406EspecV1.pdf](http://cib.org.mx/Covid19/20200406EspecV1.pdf).
-
-
-## Ventilator requirements
-
 The current requirements for emergency ventilators are listed in the above links. Further information regarding the requirements can be found from a number of different governmental sources such as:
 
-[https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en](https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en)
+* The Mexican government has released a document describing the requirements for the ventilator production: [Disposiciones para la adquisición y fabricación de ventiladores, durante la emergencia de salud pública por coronavirus 2019](https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabricacion-de-ventiladores-durante-la-emergencia-de-salud-publica-por-coronavirus-2019-covid-19?idiom=es&fbclid=IwAR0x3wMG-P88LaqueSmDusmNnOzzFP3M1LCdMZwnJ8qWbqAirB6E3e7qCds). It should be noted that these provisions are only valid during the pandemic.
 
-[https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo)
+* The Colegio de Ingenieros Biomédicos de México A.C. has also published a set of regulatory requirements for mechanical ventilators available here: [Requerimientos regulatorios para la fabricación rápida de ventiladores para atender crisis de COVID-19 Diseño & Desarrollo y Manufactura](http://cib.org.mx/Covid19/20200406EspecV1.pdf).
+
+
+* [Medical Device Compliance Requirements](https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en)
+
+* [Rapidly manufactured ventilator system specification
+](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo)
 
 
 ## Open source designs
@@ -82,26 +81,29 @@ These two designs are presented as for makers to consider building, the selectio
 
 
 ### Validation
-
+<details>
+<summary>How are the designs validated?</summary>
 The first selection criteria is that the designs have gone through some sort of a validation. Both the E-vent and Oxygen fulfil this criteria. The Oxygen project’s IM model has passed clinical testing in Spain while the E-Vent is has undergone the fourth porcine study. The latter cannot be considered a clinical test, however compared to a plethora of other designs this can be considered to be at an advanced stage.
+</details>
 
 
 ### Price
 
+<details>
+<summary>What does it cost to make?</summary>
 Second criteria is the price of manufacturing. As the devices are intended to be built by makers with limited resources, the price must be relatively low. Both of the selected projects aim to provide a low-cost, easily producible device.
-
-The Oxygen project has over 150 builds [[https://www.oxygen.protofy.xyz/](https://www.oxygen.protofy.xyz/)], hinting at the relative ease of creating it. The Mexican maker community has commented that the estimated price for the production of the Oxygen IP model is **$12,000 MXN**.
-
-The MIT E-vent does not mention specific prices, besides that it is a low-cost device.
-
+</details>
 
 ### Community
 
+<details>
+<summary>Why does the community matter?</summary>
 Third criteria is the community. The importance of the community is especially relevant when makers source materials for their builds. As both of the chosen designs have been developed outside of Mexico, it is important that the local maker community is able to share experiences about materials and the build process.
+</details>
 
-The Oxygen project has a very lively community on Discord which features both English and Spanish channels ([https://discord.gg/yyYQxEG](https://discord.gg/yyYQxEG)), as well as a Mexican Oxygen makers’ group ([https://www.facebook.com/groups/1347740022075853](https://www.facebook.com/groups/1347740022075853)). 
+### Comparison of designs and their implementations
 
-The E-Vent project is actively discussed on the project’s website.
+Table:
 
 <table>
   <tr>
@@ -148,8 +150,8 @@ The E-Vent project is actively discussed on the project’s website.
 </table>
 
 
-_
-### Building a project not listed here or want to update the information in the table?
+
+### Are you a project not listed here or want to update the information in the table?
 
 Please help to improve this documentation by opening an [issue](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues) or a pull [request](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls). 
 
@@ -165,3 +167,11 @@ https://github.com/PubInv/covid19-vent-list
 http://www.germanstrias.org/news/195/new-ventilator-device-developed-by-the-hospital-clinic-germans-trias-i-pujol-and-barcelona-university-with-protofy-xyz-gets-the-go-ahead-from-the-aemps-for-clinical-trials
 
 https://www.nsmedicaldevices.com/analysis/uk-ventilator-regulation-coronavirus/
+
+http://cib.org.mx/Covid19/20200406EspecV1.pdf
+
+https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabricacion-de-ventiladores-durante-la-emergencia-de-salud-publica-por-coronavirus-2019-covid-19?idiom=es&fbclid=IwAR0x3wMG-P88LaqueSmDusmNnOzzFP3M1LCdMZwnJ8qWbqAirB6E3e7qCds
+
+https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en
+
+https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo
