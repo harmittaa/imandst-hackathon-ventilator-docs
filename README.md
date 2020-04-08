@@ -1,9 +1,22 @@
 # Recommendations for makers of emergency ventilators in México
 
+This document is intended for makers in Mexico who want to participate in the creation of last resort ventilators to help the medical institutions fight the COVID-19 pandemic. There are not enough ventilators available and thus there will likely be a need for these last resort devices at some point.
 
-# Background 
+Why do you need this document? We have interviewed a number of makers, experts and hospitals about the last resort ventilators and learned from them about what makers should realistically expect. This document is aimed to bring makers up to speed on the current progress of builds in Mexico as well as to provide them with the necessary background information so they will have an idea what they are getting into.
 
-What is the problem, what is the solution, call to action, which value you add. Don't be academic, better be hands on.
+This document is solely intended for those makers who are looking to build last resort ventilators to be used in medical institutions. The advice here should not be considered as legal or medical advice, but rather a list of information that the reader is responsible to verify themself. The contributors of this project are not doctors, medical researchers nor experienced with law.
+
+
+### How can you help with this document? 
+
+
+
+*   Open a pull request with any changes you would like to make
+*   Open an issue to describe your build experiences
+*   Open a pull request to submit a link to your community of builders 
+
+
+## Background 
 
 Of the people who contract COVID-19 virus roughly 5 % percent develop serious or critical symptoms [[https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)]. The patients with these statuses can be in need of ventilator support. This sudden spike has created a tremendous demand for ventilators, as the medical facilities are not equipped for a pandemic the COVID-19. Due to the shortage of mechanical ventilators, the maker community has come together to build last resort emergency ventilators [[https://www.bbc.com/future/article/20200401-covid-19-the-race-to-build-coronavirus-ventilators](https://www.bbc.com/future/article/20200401-covid-19-the-race-to-build-coronavirus-ventilators)].
 
@@ -12,7 +25,18 @@ The desire to help has created a multitude of different open source emergency ve
 Selecting a design to build requires thorough consideration, as malfunctioning of a device could lead to serious injury or even the death of the patient. This document is intended to facilitate that decision making process and to provide up-to-date information on participating to building emergency ventilators. This document addresses low-cost, last resort ventilators that can be built by the makers for use when the existing methods for helping patients have been exhausted.
 
 
-# Regulatory considerations
+### What to expect
+
+Based on interviews with experts and makers we have compiled the following bullet point list on what to expect.
+
+1. **Don’t expect to get your devices into medical institutions** **yet**, the current regulations do not allow this. Should the pandemic get much worse, the likelihood of the government laxing the regulations is a possibility. Current interviews with hospitals have shown that hospitals are not willing to use last resort ventilators at this time.
+2. **Don’t expect to get your device certified**. The process is long, often taking years. This document is aimed for those building last resort ventilators to be used when no other alternative is available.
+3. **Don’t expect to receive cooperation from the hospitals**. At the time of writing this, the hospitals in Mexico are still able to manage. They will likely not provide you with information regarding their current situation with ventilators or information about what kind of a ventilator should be built.
+4. **Your device might kill someone**. If the device is not properly calibrated or malfunctions it might lead to serious injury or the death of a patient.
+5. **Consider building Class I medical devices**. There is a currently a shortage of not only ventilators but for example face shields. Building a face shield is a much more simple task and is not going to kill anyone in case of a malfunction.
+
+
+## Regulatory considerations
 
 The medical ventilators fall under Class II medical devices, meaning that they would require, among other testing, clinical trials before being allowed to be used in hospitals [[https://www.nsmedicaldevices.com/analysis/uk-ventilator-regulation-coronavirus/](https://www.nsmedicaldevices.com/analysis/uk-ventilator-regulation-coronavirus/)]. As the emergency ventilators discussed here are meant to help with acute ventilator shortage, the time frame nor the resources of individual makers, do allow for a full clinical trial to be performed. With this in mind, it is unlikely that, at least at the current state of virus in Mexico, hospitals would take into use any home made ventilators.
 
@@ -26,7 +50,7 @@ The Mexican government has released a document describing the requirements for t
 The Colegio de Ingenieros Biomédicos de México A.C. has also published a set of regulatory requirements for mechanical ventilators available here: [http://cib.org.mx/Covid19/20200406EspecV1.pdf](http://cib.org.mx/Covid19/20200406EspecV1.pdf).
 
 
-# Ventilator requirements
+## Ventilator requirements
 
 The current requirements for emergency ventilators are listed in the above links. Further information regarding the requirements can be found from a number of different governmental sources such as:
 
@@ -35,21 +59,23 @@ The current requirements for emergency ventilators are listed in the above links
 [https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo)
 
 
-# Open source designs
+## Designs to implement
 
-Two open source designs, Oxygen and e-vent, have been selected here for local makers to implement.
+The document currently describes two open source designs, Oxygen and E-Vent, both of which are currently being built by makers in Mexico.
 
 Oxygen ([https://www.oxygen.protofy.xyz/](https://www.oxygen.protofy.xyz/)) features two different versions: the M version intended for makers and the IP version intended for mass production. The latter has passed clinical trials. The downloadable materials are available here: [https://www.oxygen.protofy.xyz/download](https://www.oxygen.protofy.xyz/download).
 
-MIT E-VENT ([https://e-vent.mit.edu/](https://e-vent.mit.edu/)) is a low-cost emergency design developed by a team at the MIT. The materials for the E-Vent are available here: [https://e-vent.mit.edu/resources/downloads/](https://e-vent.mit.edu/resources/downloads/).
+MIT E-Vent ([https://e-vent.mit.edu/](https://e-vent.mit.edu/)) is a low-cost emergency design developed by a team at the MIT. The materials for the E-Vent are available here: [https://e-vent.mit.edu/resources/downloads/](https://e-vent.mit.edu/resources/downloads/).
+
+These two designs are presented as for makers to consider building, the selection was done based on the following criteria.
 
 
-## Safety
+### Validation
 
-The first selection criteria for the designs is safety. Both of the projects have gone through at least some level of testing, the Oxygen project’s IM model has passed clinical testing in Spain while the E-Vent is has undergone the fourth porcine study. The latter cannot be considered a clinical test, however compared to a plethora of other designs this can be considered to be at an advanced stage.
+The first selection criteria is that the designs have gone through some sort of a validation. Both the E-vent and Oxygen fulfil this criteria. The Oxygen project’s IM model has passed clinical testing in Spain while the E-Vent is has undergone the fourth porcine study. The latter cannot be considered a clinical test, however compared to a plethora of other designs this can be considered to be at an advanced stage.
 
 
-## Price
+### Price
 
 Second criteria is the price of manufacturing. As the devices are intended to be built by makers with limited resources, the price must be relatively low. Both of the selected projects aim to provide a low-cost, easily producible device.
 
@@ -64,7 +90,4 @@ Third criteria is the community. The importance of the community is especially r
 
 The Oxygen project has a very lively community on Discord which features both English and Spanish channels ([https://discord.gg/yyYQxEG](https://discord.gg/yyYQxEG)), as well as a Mexican Oxygen makers’ group ([https://www.facebook.com/groups/1347740022075853](https://www.facebook.com/groups/1347740022075853)). 
 
-The E-vent project is actively discussed on the project’s website.
-
-
-<!-- Docs to Markdown version 1.0β21 -->
+The E-Vent project is actively discussed on the project’s website.
