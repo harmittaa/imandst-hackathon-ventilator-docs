@@ -1,13 +1,15 @@
 # Getting started for makers of last resort emergency ventilators in México
 
-This document is intended for makers in Mexico who want to participate in the creation of last resort ventilators to help the medical institutions fight the COVID-19 pandemic. There are not enough ventilators available and thus there will likely be a need for these last resort devices at some point.
+This is an open source curated document is intended for makers in Mexico who want to participate in the creation of last resort ventilators to help the medical institutions fight the COVID-19 pandemic. There are not enough ventilators available and thus there will likely be a need for these last resort devices at some point.
 
 Why do you need this document? We have interviewed a number of makers, experts and hospitals about the last resort ventilators and learned from them about what makers should realistically expect. This document is aimed to bring makers up to speed on the current progress of builds in Mexico as well as to provide them with the necessary background information so they will have an idea what they are getting into.
 
 This document is solely intended for those makers who are looking to build last resort, low-cost ventilators to be used in medical institutions in Mexico. The advice here should not be considered as legal or medical advice, but rather a list of information that the reader is responsible to verify themself. The contributors of this project are not doctors, medical researchers nor experienced with law.
 
 
-### How can you help with this document? 
+### How can you help? 
+
+This information is open source, so you can present your ideas freely. They will be then curated and added.
 
 *   Open a pull request with any changes you would like to make
     *   [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls)
@@ -54,7 +56,7 @@ The medical ventilators fall under Class II medical devices, meaning that they w
 However, the ventilators discussed here are aimed to be provided as last resort devices for the medical institutions with the most dire needs. Considering the rapid advancement of the pandemic, it is possible that the requirements for the medical ventilators could be laxed and even last resort ventilators could be put into use in hospitals.
 </details>
 
-### Documentation
+### Official documentation
 
 The current requirements for emergency ventilators are listed in the above links. Further information regarding the requirements can be found from a number of different governmental sources such as:
 
