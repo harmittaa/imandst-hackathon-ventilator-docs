@@ -105,6 +105,10 @@ Third criteria is the community. The importance of the community is especially r
 
 Table:
 
+
+
+
+
 <table>
   <tr>
    <td><strong>Name</strong>
@@ -123,7 +127,7 @@ Table:
   <tr>
    <td><strong>Oxygen (IP)</strong>
    </td>
-   <td><a href="https://www.oxygen.protofy.xyz/">https://www.oxygen.protofy.xyz/</a>
+   <td>https://www.oxygen.protofy.xyz/
    </td>
    <td>$12,000 MXN
    </td>
@@ -131,12 +135,12 @@ Table:
    </td>
    <td>All components can be sourced from Mexico
    </td>
-   <td><a href="https://discord.gg/yyYQxEG">https://discord.gg/yyYQxEG</a>
-<a href="https://www.facebook.com/groups/1347740022075853">https://www.facebook.com/groups/1347740022075853</a>
+   <td>https://discord.gg/yyYQxEG
+https://www.facebook.com/groups/1347740022075853
   <tr>
    <td><strong>MIT E-Vent</strong>
    </td>
-   <td><a href="https://e-vent.mit.edu/">https://e-vent.mit.edu/</a>
+   <td>https://e-vent.mit.edu/
    </td>
    <td>N/A
    </td>
@@ -144,10 +148,13 @@ Table:
    </td>
    <td>All components can be sourced from the USA
    </td>
-   <td><a href="https://e-vent.mit.edu/">https://e-vent.mit.edu/</a>
+   <td>https://e-vent.mit.edu/
    </td>
   </tr>
 </table>
+
+
+
 
 
 
