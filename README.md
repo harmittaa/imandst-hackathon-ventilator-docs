@@ -122,7 +122,6 @@ The E-Vent project is actively discussed on the project’s website.
    <td>All components can be sourced from Mexico
    </td>
    <td><a href="https://discord.gg/yyYQxEG">https://discord.gg/yyYQxEG</a>
-<p>
 <a href="https://www.facebook.com/groups/1347740022075853">https://www.facebook.com/groups/1347740022075853</a>
   <tr>
    <td><strong>MIT E-Vent</strong>
@@ -141,7 +140,7 @@ The E-Vent project is actively discussed on the project’s website.
 </table>
 
 
-
+_
 ### Building a project not listed here or want to update the information in the table?
 
 Please help to improve this documentation by opening an [issue](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues) or a pull [request](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls). 
