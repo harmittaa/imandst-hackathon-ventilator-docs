@@ -17,6 +17,9 @@ This information is open source, so you can present your ideas freely. They will
     *   Use the issue template found here: [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1)
 *   Open a pull request to submit a link to your community of builders 
     *   Use the issue template found here: [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1)
+*   Are you a medical professional? 
+    *   All help from medical professionals is very needed. Submit your feedback and ideas here [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1)
+
 
 ## Background 
 <details>
@@ -43,6 +46,7 @@ Based on interviews with experts and makers we have compiled the following bulle
 4. **Your device might kill someone**. If the device is not properly calibrated or malfunctions it might lead to serious injury or the death of a patient.
 5. **Consider building Class I medical devices**. There is a currently a shortage of not only ventilators but, for example, face shields. Building a face shield is a much more simple task and is not going to kill anyone in case of a malfunction.
 6. **Give back to the maker community**. Share your ideas and experiences, connect with other makers and improve this open source documentation, so others can move faster with their builds
+7. **Do you have a contact within the medical community?** Share their insights with the rest of the community so everyone can update their approaches based on it.
 
 ## Regulatory considerations
 
