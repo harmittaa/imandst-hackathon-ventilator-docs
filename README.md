@@ -103,55 +103,10 @@ Third criteria is the community. The importance of the community is especially r
 
 ### Comparison of designs and their implementations
 
-Table:
-
-
-
-
-
-<table>
-  <tr>
-   <td><strong>Name</strong>
-   </td>
-   <td><strong>Link</strong>
-   </td>
-   <td><strong>Estimated price</strong>
-   </td>
-   <td><strong>Validation</strong>
-   </td>
-   <td><strong>Component availability</strong>
-   </td>
-   <td><strong>Community</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Oxygen (IP)</strong>
-   </td>
-   <td>https://www.oxygen.protofy.xyz/
-   </td>
-   <td>$12,000 MXN
-   </td>
-   <td>Clinical trials
-   </td>
-   <td>All components can be sourced from Mexico
-   </td>
-   <td>https://discord.gg/yyYQxEG
-https://www.facebook.com/groups/1347740022075853
-  <tr>
-   <td><strong>MIT E-Vent</strong>
-   </td>
-   <td>https://e-vent.mit.edu/
-   </td>
-   <td>N/A
-   </td>
-   <td>Porcine study
-   </td>
-   <td>All components can be sourced from the USA
-   </td>
-   <td>https://e-vent.mit.edu/
-   </td>
-  </tr>
-</table>
+| Name | Link | Estimated price | Validation | Component availability | Community |
+|-------|--------|---------|-------|--------|---------|
+| Oxygen (IP) | https://www.oxygen.protofy.xyz/ | $12,000 MXN | Clinical trials | All components can be sourced from Mexico | https://discord.gg/yyYQxEG & https://www.facebook.com/groups/1347740022075853 |
+| MIT E-Vent | https://e-vent.mit.edu/ | N/A | Porcine studies | All components can be sourced from the USA | https://e-vent.mit.edu/ |
 
 
 
