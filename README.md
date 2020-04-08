@@ -116,11 +116,10 @@ Please help to improve this documentation by opening an [issue](https://github.c
 
 ### Sources:
 
-<details>
 https://www.worldometers.info/coronavirus/
- 
+
 https://www.bbc.com/future/article/20200401-covid-19-the-race-to-build-coronavirus-ventilators
- 
+
 https://github.com/PubInv/covid19-vent-list
 
 http://www.germanstrias.org/news/195/new-ventilator-device-developed-by-the-hospital-clinic-germans-trias-i-pujol-and-barcelona-university-with-protofy-xyz-gets-the-go-ahead-from-the-aemps-for-clinical-trials
@@ -134,5 +133,3 @@ https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabric
 https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en
 
 https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo
-
-</details>
