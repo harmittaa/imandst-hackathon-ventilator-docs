@@ -18,21 +18,21 @@ This document is solely intended for those makers who are looking to build last 
 
 ## Background 
 <details>
-<summary>Why is there a need for ventilators?</summary>
-   
-Of the people who contract COVID-19 virus roughly 5 % percent develop serious or critical symptoms https://www.worldometers.info/coronavirus/. The patients with these statuses can be in need of ventilator support. This sudden spike has created a tremendous demand for ventilators, as the medical facilities are not equipped for a pandemic the COVID-19. Due to the shortage of mechanical ventilators, the maker community has come together to build last resort emergency ventilators https://www.bbc.com/future/article/20200401-covid-19-the-race-to-build-coronavirus-ventilators.
+<summary>Why is there a need for ventilators</summary>
+Of the people who contract COVID-19 virus roughly 5 % percent develop serious or critical symptoms. The patients with these statuses can be in need of ventilator support. This sudden spike has created a tremendous demand for ventilators, as the medical facilities are not equipped for a pandemic the COVID-19. Due to the shortage of mechanical ventilators, the maker community has come together to build last resort emergency ventilators.
+</details>
 
+<details>
+<summary>Current state of last resort ventilators</summary>
+The desire to help has created a multitude of different open source emergency ventilator designs, especially those that are aimed for makers to build from locally sourced parts. However, the projects are in varying stages of development, from those with first prototypes just being built to those which have are already in clinical trials.
+</details>
 
-The desire to help has created a multitude of different open source emergency ventilator designs, especially those that are aimed for makers to build from locally sourced parts https://github.com/PubInv/covid19-vent-list. However, the projects are in varying stages of development, from those with first prototypes just being built to those which have are already in clinical trials http://www.germanstrias.org/news/195/new-ventilator-device-developed-by-the-hospital-clinic-germans-trias-i-pujol-and-barcelona-university-with-protofy-xyz-gets-the-go-ahead-from-the-aemps-for-clinical-trials.
-
-
+<details>
+<summary>Selecting a design</summary>
 Selecting a design to build requires thorough consideration, as malfunctioning of a device could lead to serious injury or even the death of the patient. This document is intended to facilitate that decision making process and to provide up-to-date information on participating to building emergency ventilators. This document addresses low-cost, last resort ventilators that can be built by the makers for use when the existing methods for helping patients have been exhausted.
 </details>
 
 ### What to expect
-<details>
-<summary>Get an idea on what to prepare for</summary>
-
 Based on interviews with experts and makers we have compiled the following bullet point list on what to expect:
 
 1. **Don’t expect to get your devices into medical institutions** **yet**, the current regulations do not allow this. Should the pandemic get much worse, there is possibility of the government laxing the regulations. Current interviews with hospitals have shown that hospitals are not willing to use last resort ventilators at this time.
@@ -41,18 +41,18 @@ Based on interviews with experts and makers we have compiled the following bulle
 4. **Your device might kill someone**. If the device is not properly calibrated or malfunctions it might lead to serious injury or the death of a patient.
 5. **Consider building Class I medical devices**. There is a currently a shortage of not only ventilators but, for example, face shields. Building a face shield is a much more simple task and is not going to kill anyone in case of a malfunction.
 6. **Give back to the maker community**. Share your ideas and experiences, connect with other makers and improve this open source documentation, so others can move faster with their builds
-</details>
 
 ## Regulatory considerations
 
 <details>
-<summary>What does the government say at this point about last resort ventilators?</summary>
-   
-The medical ventilators fall under Class II medical devices, meaning that they would require, among other testing, clinical trials before being allowed to be used in hospitals [https://www.nsmedicaldevices.com/analysis/uk-ventilator-regulation-coronavirus/](https://www.nsmedicaldevices.com/analysis/uk-ventilator-regulation-coronavirus/)]. As the emergency ventilators discussed here are meant to help with acute ventilator shortage, the time frame nor the resources of individual makers, do allow for a full clinical trial to be performed. With this in mind, it is unlikely that, at least at the current state of virus in Mexico, hospitals would take into use any home made ventilators.
-
-However, the ventilators discussed here are aimed to be provided as last resort devices for the medical institutions with the most dire needs. Considering the rapid advancement of the pandemic, it is possible that the requirements for the medical ventilators could be laxed and even last resort ventilators could be put into use in hospitals.
+<summary>Medical device classification</summary>
+The medical ventilators fall under Class II medical devices, meaning that they would require, among other testing, clinical trials before being allowed to be used in hospitals. As the emergency ventilators discussed here are meant to help with acute ventilator shortage, the time frame nor the resources of individual makers, do allow for a full clinical trial to be performed. With this in mind, it is unlikely that, at least at the current state of virus in Mexico, hospitals would take into use any home made ventilators.
 </details>
 
+<details>
+<summary>So, how do untested devices help?</summary>
+However, the ventilators discussed here are aimed to be provided as last resort devices for the medical institutions with the most dire needs. Considering the rapid advancement of the pandemic, it is possible that the requirements for the medical ventilators could be laxed and even last resort ventilators could be put into use in hospitals.
+</details>
 
 ### Documentation
 
@@ -152,3 +152,16 @@ _
 ### Building a project not listed here or want to update the information in the table?
 
 Please help to improve this documentation by opening an [issue](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues) or a pull [request](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls). 
+
+
+### Sources:
+
+https://www.worldometers.info/coronavirus/
+ 
+https://www.bbc.com/future/article/20200401-covid-19-the-race-to-build-coronavirus-ventilators
+ 
+https://github.com/PubInv/covid19-vent-list
+
+http://www.germanstrias.org/news/195/new-ventilator-device-developed-by-the-hospital-clinic-germans-trias-i-pujol-and-barcelona-university-with-protofy-xyz-gets-the-go-ahead-from-the-aemps-for-clinical-trials
+
+https://www.nsmedicaldevices.com/analysis/uk-ventilator-regulation-coronavirus/
