@@ -109,10 +109,6 @@ Third criteria is the community. The importance of the community is especially r
 | MIT E-Vent | https://e-vent.mit.edu/ | N/A | Porcine studies | All components can be sourced from the USA | https://e-vent.mit.edu/ |
 
 
-
-
-
-
 ### Are you a project not listed here or want to update the information in the table?
 
 Please help to improve this documentation by opening an [issue](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues) or a pull [request](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls). 
@@ -120,6 +116,7 @@ Please help to improve this documentation by opening an [issue](https://github.c
 
 ### Sources:
 
+<details>
 https://www.worldometers.info/coronavirus/
  
 https://www.bbc.com/future/article/20200401-covid-19-the-race-to-build-coronavirus-ventilators
@@ -137,3 +134,5 @@ https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabric
 https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en
 
 https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo
+
+</details>
