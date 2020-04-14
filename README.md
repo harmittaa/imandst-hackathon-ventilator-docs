@@ -11,12 +11,12 @@ This document is solely intended for those makers who are looking to build last 
 
 This information is open source, so you can present your ideas freely. They will be then curated and added.
 
-*   Open a pull request with any changes you would like to make
+*   Open a pull request with any **information** you would like to add
     *   [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls)
-*   Open an issue to describe your build experiences
+*   Open an issue to describe your **build experiences**
     *   Use the issue template found here: [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1)
-*   Open a pull request to submit a link to your community of builders 
-    *   Use the issue template found here: [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1)
+*   Open an issue to submit your own **design** 
+    *   Use the issue template found here: [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/3](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/3)
 *   Are you a medical professional? 
     *   All help from medical professionals is very needed. Submit your feedback and ideas here [https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/1)
 
