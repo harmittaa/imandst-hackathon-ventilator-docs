@@ -117,7 +117,9 @@ Third criteria is the community. The importance of the community is especially r
 
 ### Are you a project not listed here or want to update the information in the table?
 
-Please help to improve this documentation by opening an [issue](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues) or a pull [request](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls). 
+Please help to improve this documentation by opening an [issue](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues) or a pull [request](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls).
+
+Check out the submitted projects here: [designs](./designs.html).
 
 ### Other considerations about ventilators
 [Associated Press has written on the April 11th](https://apnews.com/8ccd325c2be9bf454c2128dcb7bd616d) that some hospitals are moving away from using ventilators, due to high death rate of patients who've been placed on ventilators have died.
