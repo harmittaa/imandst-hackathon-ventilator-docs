@@ -1,4 +1,4 @@
-{% include footer.html %}
+{% include analytics.html %}
 
 # Getting started for makers of last resort emergency ventilators in México
 
