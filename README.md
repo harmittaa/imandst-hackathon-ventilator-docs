@@ -1,5 +1,3 @@
-{% include analytics.html %}
-
 # Getting started for makers of last resort emergency ventilators in México
 
 This is an open source curated document is intended for makers in Mexico who want to participate in the creation of last resort ventilators to help the medical institutions fight the COVID-19 pandemic. There are not enough ventilators available and thus there will likely be a need for these last resort devices at some point.
@@ -145,3 +143,5 @@ https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabric
 https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en
 
 https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo
+
+{% include analytics.html %}
