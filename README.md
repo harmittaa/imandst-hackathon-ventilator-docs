@@ -115,7 +115,7 @@ Third criteria is the community. The importance of the community is especially r
 | MIT E-Vent | https://e-vent.mit.edu/ | N/A | Porcine studies | All components can be sourced from the USA | https://e-vent.mit.edu/ |
 
 
-### Are you a project not listed here or want to update the information in the table?
+### Do you want to add your own design?
 
 Please help to improve this documentation by opening an [issue](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues) or a pull [request](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/pulls).
 
