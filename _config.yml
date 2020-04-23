@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Information for makers of DYI ventilators
 google_analytics: UA-164129921-1
-designs: Show designs
+designs_href: ./designs.html
+show_designs_en: Show designs
