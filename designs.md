@@ -15,5 +15,3 @@ Submitted in issue [4](https://github.com/harmittaa/imandst-hackathon-ventilator
 
 
 [Return to main page](./)
-
-{% include analytics.html %}

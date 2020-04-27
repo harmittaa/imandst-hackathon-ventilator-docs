@@ -143,5 +143,3 @@ https://www.gob.mx/cofepris/articulos/disposiciones-para-la-adquisicion-y-fabric
 https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en
 
 https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo
-
-{% include analytics.html %}
