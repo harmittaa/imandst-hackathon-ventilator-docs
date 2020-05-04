@@ -135,6 +135,34 @@ The following YouTube (2.)link will show you how to change the language of web p
 
 2. https://www.youtube.com/watch?v=kevhllFZrk4
 
+### Liability and license
+
+This is a project of makers and all information is provided as is, meaning that it might be out of date, incorrect or even
+dangerous. So, before putting anything you read here to use, do your own research to make sure it's valid. If you find something that is incorrect, please submit a PR. The purpose is to provide a space for makers to share their ideas to help out during the pandemic. The developers do not take any responsibility on the designs added.
+
+MIT License
+
+Copyright (c) 2020 Matti Mäki-Kihniä
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
 ### Sources:
 
 https://www.worldometers.info/coronavirus/
