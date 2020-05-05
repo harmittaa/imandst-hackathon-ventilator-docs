@@ -70,6 +70,8 @@ The current requirements for emergency ventilators are listed in the above links
 
 * Enforcement Policy for Ventilators and Accessories and Other Respiratory Devices During the Coronavirus Disease 2019 (COVID-19) Public Health Emergency https://www.fda.gov/regulatory-information/search-fda-guidance-documents/enforcement-policy-ventilators-and-accessories-and-other-respiratory-devices-during-coronavirus
 
+* FDA Authorized Ventilators, Ventilator Tubing Connectors, and Ventilator Accessories https://www.fda.gov/media/136528/download
+
 * [Medical Device Compliance Requirements](https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en)
 
 * [Rapidly manufactured ventilator system specification
