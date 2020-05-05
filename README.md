@@ -114,6 +114,9 @@ Third criteria is the community. The importance of the community is especially r
 | Oxygen (IP) | https://www.oxygen.protofy.xyz/ | $12,000 MXN | Clinical trials | All components can be sourced from Mexico | https://discord.gg/yyYQxEG & https://www.facebook.com/groups/1347740022075853 |
 | MIT E-Vent | https://e-vent.mit.edu/ | N/A | Porcine studies | All components can be sourced from the USA | https://e-vent.mit.edu/ |
 
+### Other open source ventilator designs
+
+**Public Invention** has gathered an exhaustive list on open source ventilator designs which are evaluated on a number of different properties: [covid19-vent-list](https://github.com/PubInv/covid19-vent-list).
 
 ### Do you want to add your own design?
 
