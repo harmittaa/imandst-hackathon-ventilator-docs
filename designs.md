@@ -48,4 +48,35 @@ __Can the parts be sourced locally__: Yes
 
 **Other notes**: easy to build, portable, cheap, easy to manufacture
 
+___
+
+### E-19 Ventilator
+The E-19 is a unique design so information cannot be found in other media. Likewise, it has not been previously manufactured or put into operation in health institutions. The E-19 has an evaluation and validation by the Hackathon jury called: Hack the pandemic. The purpose of the hackathon is to provide alternative solutions to an open-source source in order to reduce the impact of Covid-19 on health institutions.
+
+Submitted in issue [5](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/7).
+
+
+__Link__: https://a01339240.wixsite.com/e-19?fbclid=IwAR1fLzYxYkU_hgsNrvcpJDwlFHve4BmXjYUsJw3J6MZ6anL4szenvSygAzk
+
+__Built__: No
+
+__Is it in use__: No
+
+__(Estimated) cost of the build__: 5456 MXN
+
+__(Estimated) time it takes to build__: approximately 6 hours
+
+__Can the parts be sourced locally__: Yes
+
+* **List of required components**:
+    * 9mm acrylic sheet of 1m x 1m
+    * 3 Aluminium tubes
+    * 2 AC motors
+    * PID Controller
+    * 1 pressure sensor
+    * 1 acrylic cam
+    * 1 metal chain
+    * 1 epoxy bottle
+    * 1 hinge with screws
+
 [Return to main page](./)
