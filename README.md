@@ -1,4 +1,4 @@
-# Information and designs for makers of last resource ventilators
+# Information and designs for makers of last resource ventilators 
 
 This is an open source curated document is intended for makers in Mexico who want to participate in the creation of last resort ventilators to help the medical institutions fight the COVID-19 pandemic. There are not enough ventilators available and thus there will likely be a need for these last resort devices at some point.
 
@@ -68,6 +68,9 @@ The current requirements for emergency ventilators are listed in the above links
 
 * The Colegio de Ingenieros Biomédicos de México A.C. has also published a set of regulatory requirements for mechanical ventilators available here: [Requerimientos regulatorios para la fabricación rápida de ventiladores para atender crisis de COVID-19 Diseño & Desarrollo y Manufactura](http://cib.org.mx/Covid19/20200406EspecV1.pdf).
 
+* Enforcement Policy for Ventilators and Accessories and Other Respiratory Devices During the Coronavirus Disease 2019 (COVID-19) Public Health Emergency https://www.fda.gov/regulatory-information/search-fda-guidance-documents/enforcement-policy-ventilators-and-accessories-and-other-respiratory-devices-during-coronavirus
+
+* FDA Authorized Ventilators, Ventilator Tubing Connectors, and Ventilator Accessories https://www.fda.gov/media/136528/download
 
 * [Medical Device Compliance Requirements](https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en)
 
@@ -114,6 +117,9 @@ Third criteria is the community. The importance of the community is especially r
 | Oxygen (IP) | https://www.oxygen.protofy.xyz/ | $12,000 MXN | Clinical trials | All components can be sourced from Mexico | https://discord.gg/yyYQxEG & https://www.facebook.com/groups/1347740022075853 |
 | MIT E-Vent | https://e-vent.mit.edu/ | N/A | Porcine studies | All components can be sourced from the USA | https://e-vent.mit.edu/ |
 
+### Other open source ventilator designs
+
+**Public Invention** has gathered an exhaustive list on open source ventilator designs which are evaluated on a number of different properties: [covid19-vent-list](https://github.com/PubInv/covid19-vent-list).
 
 ### Do you want to add your own design?
 
