@@ -1,4 +1,4 @@
-# Information and designs for makers of last resource ventilators!
+# Information and designs for makers of last resource ventilators
 
 This is an open source curated document is intended for makers in Mexico who want to participate in the creation of last resort ventilators to help the medical institutions fight the COVID-19 pandemic. There are not enough ventilators available and thus there will likely be a need for these last resort devices at some point.
 
