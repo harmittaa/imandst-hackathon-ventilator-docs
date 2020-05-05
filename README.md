@@ -68,6 +68,7 @@ The current requirements for emergency ventilators are listed in the above links
 
 * The Colegio de Ingenieros Biomédicos de México A.C. has also published a set of regulatory requirements for mechanical ventilators available here: [Requerimientos regulatorios para la fabricación rápida de ventiladores para atender crisis de COVID-19 Diseño & Desarrollo y Manufactura](http://cib.org.mx/Covid19/20200406EspecV1.pdf).
 
+* Enforcement Policy for Ventilators and Accessories and Other Respiratory Devices During the Coronavirus Disease 2019 (COVID-19) Public Health Emergency https://www.fda.gov/regulatory-information/search-fda-guidance-documents/enforcement-policy-ventilators-and-accessories-and-other-respiratory-devices-during-coronavirus
 
 * [Medical Device Compliance Requirements](https://www.agorize.com/en/challenges/code-life-challenge/pages/guidelines?lang=en)
 
