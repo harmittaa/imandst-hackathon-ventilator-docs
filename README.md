@@ -77,6 +77,8 @@ The current requirements for emergency ventilators are listed in the above links
 * [Rapidly manufactured ventilator system specification
 ](https://www.gov.uk/government/publications/coronavirus-covid-19-ventilator-supply-specification/rapidly-manufactured-ventilator-system-specification?fbclid=IwAR2IgOyENgHJTsLouIiikpuiwgwupdB8d8Aun2he8nzMPWGfhBVhaG_sMqo)
 
+### Open source discussion on guidelines
+Una open source donde compartimos principalmente para empresas y makers los materiales necesarios para la creación de un ventilador de último recurso próximo a ser aprobado y por si alguna empresa en pausa quiere participar [LINEAMIENTOS DE MANUFACTURA Y FABRICACIÓN](https://github.com/MFCE/LINEAMIENTOS-MANUFACTURA)
 
 ## Open source designs
 
