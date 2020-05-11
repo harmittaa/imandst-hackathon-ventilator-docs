@@ -14,6 +14,8 @@ Submitted in issue [5](https://github.com/harmittaa/imandst-hackathon-ventilator
 
 __Link__: https://docs.google.com/document/d/1DPyQxNOHiTM5X76V4569y8cRv1bigq2UZ2rNMYUgOtI/
 
+__Inspired by__: https://www.oxygen.protofy.xyz/
+
 __Built__: No
 
 __Is it in use__: No
@@ -53,7 +55,7 @@ ___
 ### E-19 Ventilator
 The E-19 is a unique design so information cannot be found in other media. Likewise, it has not been previously manufactured or put into operation in health institutions. The E-19 has an evaluation and validation by the Hackathon jury called: Hack the pandemic. The purpose of the hackathon is to provide alternative solutions to an open-source source in order to reduce the impact of Covid-19 on health institutions.
 
-Submitted in issue [5](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/7).
+Submitted in issue [7](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/7).
 
 
 __Link__: https://a01339240.wixsite.com/e-19?fbclid=IwAR1fLzYxYkU_hgsNrvcpJDwlFHve4BmXjYUsJw3J6MZ6anL4szenvSygAzk
@@ -84,6 +86,8 @@ ___
 
 ### Modified Open Lung User interface
 After thorough research on ventilator protoypes, open source initiatives, etc., we found a great initiative named Open Lung, based in Toronto, Canada. Using innovation methodologies, we found an area of opportunity in the design, so we suggest to add pre-set user profiles in order to facilitate the use, especially in emergency situations.
+
+Submitted in issue [3](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/3) comments.
 
 __Link__: https://docs.google.com/presentation/d/1iYtJw7RzVcXNlkU04j0Igw8Wo090l2Q_9WlNdgW1Ayc/edit?usp=sharing
 
