@@ -184,6 +184,37 @@ __Other notes:__
 
 ____
 
+### AMBU4ALL
+By having two ambu bags you get a better use of resources, the motor rotates at 12 rpm generating a cycle time of 5s. Bases can be adjusted every 5 mm, providing versatility in volumetric air adjustment.
+Submitted in issue [4](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/4).
 
+
+__Link__: https://docs.google.com/presentation/d/1JqkY3SXch_tlAmNuQfZxYzvYZpKKcbOLVqxGSsjuPKI/edit?usp=sharing The last slide of the presentation has some documentation, information about Barotrauma and other issues with ongoing low-cost ventilator designs:
+https://www.youtube.com/watch?v=7vLPefHYWpY
+
+__Build instructions__: https://www.youtube.com/watch?v=n57u1NvXBgw
+
+__Inspired by__: https://github.com/jcl5m1/ventilator
+
+__Built__: No
+
+__Is it in use__: No
+
+__(Estimated) cost of the build__: $1,860.05 MXN
+
+__(Estimated) time it takes to build__: 3 hours
+
+__Can the parts be sourced locally__: Yes
+
+* __Parts__:
+    * [MDF](https://www.homedepot.com.mx/materiales-de-construccion/paneles-de-madera/mdf/mdf-trupan-9mm-122-x-244-286630?ds_rl=1265249&gclid=Cj0KCQjwtLT1BRD9ARIsAMH3BtU3WyhfpUu_2VBqUI-0mKo9t1HNtLGqwHnhKw9xbygCMfDg3vTJfDoaAuRnEALw_wcB&gclsrc=aw.ds)
+    * [AMBU Bag](https://www.amazon.com.mx/Jarchii-V%C3%A1lvula-Adultos-respiraci%C3%B3n-Herramientas/dp/B0878V4CZF/ref=sr_1_4?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=bolsa+ambu&qid=1588442067&sr=8-4)
+    * [Acrylic](https://www.homedepot.com.mx/puertas-y-ventanas/paneles-decorativos/panel-de-acrilico-32-x-44-618245?ds_rl=1264021&gclid=Cj0KCQjw17n1BRDEARIsAFDHFeydJ9C5qoYVTzzARy5lm3krkYb0OgtOYO2vZAgzcB4zQsii78R169saAnNcEALw_wcB&gclsrc=aw.ds)
+
+* **List of required tools**:
+    * Laser cutter
+    * CNC machine
+
+____
 
 [Return to main page](./)
