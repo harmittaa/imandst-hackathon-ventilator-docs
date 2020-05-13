@@ -132,5 +132,58 @@ __Can the parts be sourced locally__: Most of them, although availability may va
 
 **What is special about this design**: Automated BVM, made with common materials, common manufacturing methods, low cost and covering basic features of a ventilator
 
+____
+
+### The Uncritical Ventilator
+Ventilator using fan from CPAP machine
+Submitted in issue [9](https://github.com/harmittaa/imandst-hackathon-ventilator-docs/issues/9).
+
+
+__Link__: https://docs.google.com/presentation/d/1JqkY3SXch_tlAmNuQfZxYzvYZpKKcbOLVqxGSsjuPKI/edit?usp=sharing The last slide of the presentation has some documentation, information about Barotrauma and other issues with ongoing low-cost ventilator designs:
+https://www.youtube.com/watch?v=7vLPefHYWpY
+
+__Build instructions__: https://www.youtube.com/watch?v=n57u1NvXBgw
+
+__Inspired by__: https://github.com/jcl5m1/ventilator
+
+__Built__: No
+
+__Is it in use__: No
+
+__Has it been validated__: The original design has entries from professionals, (see original design link for more info)
+
+__(Estimated) cost of the build__: $3,000 MXN
+
+__(Estimated) time it takes to build__: Around 5 hours, including code but if we were to introduce the necessary sensors and code them it would most likely take more time (for the first ventilator at least), then it would take less time to reproduce since the code con just be replicated to all.
+
+
+__Can the parts be sourced locally__: Yes
+
+* __Parts__:
+    * CPAP/12V inflator pump
+    * Arduino
+    * Brushless DC motor electronic speed controller (10A min)
+    * Input controller
+    * Power supply
+    * Tubing and face mask
+    * optional battery backup
+
+* **List of required tools**:
+    * Arduino software
+    * 3D printer, if you have no face mask to attach
+
+__What is special about this design__: It's low cost and programmable, it's also compatible with existing equipment
+
+__What help do you need with the design:__ To know wether it could be used in hospitals for first response in patients or to transition from a fancy hospital-grade ventilator to no ventilator at all.
+
+__Other notes:__
+* We know that it's no match for a professional ventilator but we hope that it could help inane way or another to combat the breathing difficulties of patients who:
+    * have no professional ventilator available
+    * could use some breathing aid without being in a critical state (hence the name)
+    * are in the process of losing the tubes
+
+____
+
+
 
 [Return to main page](./)
